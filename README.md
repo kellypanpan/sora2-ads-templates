@@ -9,5 +9,4 @@ Ready-to-use prompt templates for high-converting product and e-commerce videos.
 - Lifestyle action  
 
 ## Use Online
-Generate ad-ready Sora-style videos:
-https://saro2.ai
+[My AI Video Site – Saro2](https://saro2.ai)
